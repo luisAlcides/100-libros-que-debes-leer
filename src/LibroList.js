@@ -37,7 +37,7 @@ const LibroList = () => {
     <div className="min-h-screen bg-gray-100 flex flex-col items-center py-8">
       <div className="flex items-center mb-6">
         <FiBookOpen className="text-5xl text-green-500 mr-2" />
-        <h1 className="text-4xl font-bold text-gray-900">100 Libros para ser más inteligente</h1>
+        <h1 className="text-4xl font-bold text-gray-900">100 Libros que deberías leer</h1>
       </div>
       <div className="bg-white shadow-md rounded-lg w-full max-w-3xl p-6">
         <div className="mb-4">
