@@ -116,8 +116,12 @@ const LibroList = () => {
           </div>
         </div>
       )}
+      <footer className="mt-8">
+        <p className="text-gray-600">by Luis Alcides</p>
+      </footer>
     </div>
   );
 };
 
 export default LibroList;
+
